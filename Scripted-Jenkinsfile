@@ -11,4 +11,3 @@ node {
         sh "${mvnPath} clean package"
     }    
 }
-dgdfgds
